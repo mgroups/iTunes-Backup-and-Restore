@@ -1,0 +1,42 @@
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.csproj.AssemblyReference.cache
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.GeneratedMSBuildEditorConfig.editorconfig
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.AssemblyInfoInputs.cache
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.AssemblyInfo.cs
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.csproj.CoreCompileInputs.cache
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\iTunes Backup Restore.exe
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\iTunes Backup Restore.deps.json
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\iTunes Backup Restore.runtimeconfig.json
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\iTunes Backup Restore.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\iTunes Backup Restore.pdb
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\EntityFramework.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Data.SQLite.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.CodeDom.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Data.SqlClient.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Data.SQLite.EF6.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Drawing.Common.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Security.Permissions.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\System.Windows.Extensions.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\linux-x64\native\SQLite.Interop.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\osx-x64\native\SQLite.Interop.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win-x64\native\SQLite.Interop.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win-x86\native\SQLite.Interop.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes B.3F5D8AD5.Up2Date
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\refint\iTunes Backup Restore.dll
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.pdb
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\iTunes Backup Restore.genruntimeconfig.cache
+P:\c#\iTunes Backup Restore\iTunes Backup Restore\obj\Debug\net8.0\ref\iTunes Backup Restore.dll
